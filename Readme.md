@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/BuildInCoordinateConverters/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/BuildInCoordinateConverters/MainWindow.xaml.vb))**
+* [MainWindow.xaml.cs](./CS/BuildInCoordinateConverters/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/BuildInCoordinateConverters/MainWindow.xaml.vb))
+<!-- default file list end -->
 # How to manually load a Cartesian map shapefile to a map control
 
 
